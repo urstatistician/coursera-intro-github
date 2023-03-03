@@ -1,2 +1,2 @@
 # coursera-intro-github
-learning github (Introduction to Github by Coursera)
+Learning Github (Introduction to Github by Coursera)
